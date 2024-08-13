@@ -1,6 +1,6 @@
 # User Authentication and Quote Management Application
 
-This is a full-stack application that allows users to register, login, and manage their quotes. It uses Node.js and Express for the backend, MongoDB for the database, and React for the frontend.
+This is a full-stack application that allows users to register, login, and manage their quotes(dashboard). It uses Node.js and Express for the backend, MongoDB for the database, and React for the frontend, Bccrypt JS for encryption.
 
 ## Project Structure
 
