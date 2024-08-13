@@ -5,13 +5,16 @@ This is a full-stack application that allows users to register, login, and manag
 ## Project Structure
 
 - **Backend**
-  - `server.js`: The main server file for handling API requests.
+  - `index.js`: The main server file for handling API requests.
   - `models/user.model.js`: Mongoose schema and model for user data.
   
 - **Frontend**
   - `src/App.js`: The main React component for the login page.
-  - `src/Dashboard.js`: React component for the dashboard where users can view and update their quotes.
+  - `src/Pages/quotes.js`: React component for the dashboard where users can view and update their quotes.
+  - `src/Pages/register.js`: React component for the creating new user.
+  - `src/Pages/login.js`: React component for the login where users can login .
   - `src/styles/App.css`: Styles for the React components.
+  - 
 
 ## Key Components
 
