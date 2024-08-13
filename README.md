@@ -32,5 +32,38 @@ This is a full-stack application that allows users to register, login, and manag
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-repo-folder
+   git clone [https://github.com/your-repo-url.git](https://github.com/Abhigyan126/User-Authentication-System.git
+   cd User-Authentication-System
+   ```
+2. **Starting Nodejs server**
+   ```bash npm start dev ```
+3. **starting Reaact server** 
+```bash npm start```
+
+
+### `Usage`
+
+```markdown
+# Usage Instructions
+
+## Register a New User
+
+1. Navigate to `http://localhost:3000/register`.
+2. Fill out the registration form with your name, email, and password.
+3. Upon successful registration, you will be redirected to the login page.
+
+## Log In
+
+1. Navigate to `http://localhost:3000/login`.
+2. Enter your registered email and password.
+3. Upon successful login, you will be redirected to the dashboard.
+
+## Access the Dashboard
+
+1. In the dashboard, you can view your current quote and update it.
+2. The dashboard also displays your username and email.
+
+## Logout
+
+1. Use the logout button on the dashboard to log out of your account.
+2. You will be redirected to the login page.
