@@ -38,9 +38,9 @@ in the `server/index.js ` add your mongodb url
    cd User-Authentication-System
    ```
 2. **Starting Nodejs server**
-   ```bash npm start dev ```
+   ``` npm start dev ```
 3. **starting React server** 
-```bash npm start```
+``` npm start```
 
 
 ### `Usage`
