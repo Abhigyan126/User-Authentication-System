@@ -39,7 +39,7 @@ in the `server/index.js ` add your mongodb url
    ```
 2. **Starting Nodejs server**
    ```bash npm start dev ```
-3. **starting Reaact server** 
+3. **starting React server** 
 ```bash npm start```
 
 
