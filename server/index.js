@@ -8,7 +8,7 @@ const bcrypt = require('bcryptjs')
 app.use(cors())
 app.use(express.json())
 
-mongoose.connect('mongodb+srv://21btrcl126:KXXpgQnJ4AW8BG42@cluster0.ykzng.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+mongoose.connect('//updat with mongodb url//')
 
 //register
 app.post('/api/register', async (req,res) => {
