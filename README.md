@@ -72,3 +72,13 @@ in the `server/index.js ` add your mongodb url
 
 1. Use the logout button on the dashboard to log out of your account.
 2. You will be redirected to the login page.
+```
+
+###Screenshots
+
+<p align='center'>
+  <img width="882" alt="Screenshot 2024-08-13 at 3 01 48 PM" src="https://github.com/user-attachments/assets/8cad6fd3-d6b7-4c5d-8ce7-9472073940d3">
+<img width="882" alt="Screenshot 2024-08-13 at 3 01 40 PM" src="https://github.com/user-attachments/assets/b7482e2d-9977-4434-97c3-86e4e602cde0">
+<img width="882" alt="Screenshot 2024-08-13 at 3 06 15 PM" src="https://github.com/user-attachments/assets/18d7a4fe-1beb-4730-9e05-b0632be17a04">
+
+</p>
