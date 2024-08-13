@@ -27,7 +27,9 @@ This is a full-stack application that allows users to register, login, and manag
 
 ## Setup and Running the Project
 
-### Backend
+in the `server/index.js ` add your mongodb url
+
+##instruction
 
 1. **Clone the repository**:
 
